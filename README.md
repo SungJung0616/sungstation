@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# sungstation
-Automated order fulfillment and shipping management system using ShipStation API.
+
 =======
 # SungStation 📦🚀  
 Automated order fulfillment and shipping management system using ShipStation API.
@@ -14,4 +12,4 @@ Automated order fulfillment and shipping management system using ShipStation API
 - Node.js + Express
 - MongoDB
 - ShipStation API
->>>>>>> 7ecddd2 (Initial commit)
+
